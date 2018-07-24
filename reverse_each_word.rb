@@ -7,5 +7,5 @@ def reverse_each_word(sentence)
     array.push(word)
     array.join("")
   end
-  
+
 end
